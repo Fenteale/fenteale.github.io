@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="6.614583mm"
+   height="6.6145806mm"
+   viewBox="0 0 6.614583 6.6145806"
+   version="1.1"
+   id="svg5"
+   inkscape:version="1.1.2 (0a00cf5339, 2022-02-04, custom)"
+   sodipodi:docname="fenlogo.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview7"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:document-units="mm"
+     showgrid="true"
+     fit-margin-top="0"
+     fit-margin-left="0"
+     fit-margin-right="0"
+     fit-margin-bottom="0"
+     inkscape:zoom="32"
+     inkscape:cx="8.046875"
+     inkscape:cy="16.390625"
+     inkscape:window-width="1920"
+     inkscape:window-height="1032"
+     inkscape:window-x="0"
+     inkscape:window-y="29"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1">
+    <inkscape:grid
+       type="xygrid"
+       id="grid824"
+       originx="-47.625001"
+       originy="-70.114584" />
+  </sodipodi:namedview>
+  <defs
+     id="defs2" />
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(-47.625,-70.114586)">
+    <rect
+       style="fill:#00ffff;fill-opacity:1;stroke-width:0.2825"
+       id="rect848"
+       width="1.3229151"
+       height="1.3229166"
+       x="47.625"
+       y="70.114586" />
+    <rect
+       style="fill:#00ffff;fill-opacity:1;stroke-width:0.2825"
+       id="rect848-5"
+       width="1.3229151"
+       height="1.3229166"
+       x="52.916668"
+       y="70.114586" />
+    <rect
+       style="fill:#00ffff;fill-opacity:1;stroke-width:0.2825"
+       id="rect848-35"
+       width="1.3229151"
+       height="1.3229166"
+       x="52.916668"
+       y="72.760422" />
+    <rect
+       style="fill:#00ffff;fill-opacity:1;stroke-width:0.2825"
+       id="rect848-62"
+       width="1.3229151"
+       height="1.3229166"
+       x="47.625"
+       y="72.760414" />
+    <path
+       style="fill:#00ffff;fill-opacity:1;stroke:none;stroke-width:0.458271px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 48.947915,71.437503 h 3.968751 v 1.322916 h -1.322917 v 1.322916 l 1.322917,0 0,1.322917 h -1.322917 v 1.322917 h -1.322917 v -1.322917 h -1.322916 v -1.322917 h 1.322916 v -1.322916 h -1.322917 z"
+       id="path1737"
+       sodipodi:nodetypes="ccccccccccccccccc" />
+  </g>
+</svg>

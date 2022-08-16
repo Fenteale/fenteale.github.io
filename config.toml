@@ -1,0 +1,48 @@
+baseURL = 'https://fenteale.com'
+languageCode = 'en-us'
+title = 'Fenteale'
+theme = 'coder'
+
+[params]
+  author = "Fenteale"
+  info = ["Open Source Coder", "Robotics Enthusiast", "Hardware Engineer"]
+  keywords = "blog,developer,personal"
+  avatarurl = "images/fenlogo.svg"
+  #gravatar = "john.doe@example.com"
+
+  favicon_32 = "/img/favicon-32x32.png"
+  favicon_16 = "/img/favicon-16x16.png"
+
+  since = 2022
+
+  enableTwemoji = true
+
+  colorScheme = "auto"
+  hidecolorschemetoggle = false
+
+
+[[params.social]]
+name = "Github"
+icon = "fa fa-2x fa-github"
+weight = 1
+url = "https://github.com/Fenteale/"
+
+[[languages.en.menu.main]]
+name = "About"
+weight = 1
+url = "about/"
+
+[[languages.en.menu.main]]
+name = "Blog"
+weight = 2
+url = "posts/"
+
+[[languages.en.menu.main]]
+name = "Projects"
+weight = 3
+url = "projects/"
+
+[[languages.en.menu.main]]
+name = "Contact me"
+weight = 5
+url = "contact/"
